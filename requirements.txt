@@ -1,0 +1,4 @@
+# Plant Stress Detective - Python Dependencies
+# Class 12 Computer Science Project
+
+mysql-connector-python>=8.0.0
